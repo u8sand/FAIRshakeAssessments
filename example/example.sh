@@ -1,0 +1,1 @@
+python -m fairshake_assessments "$(cat example/fairshake_frame.json)" < example/fairshake_input.json > example/fairshake_output.json

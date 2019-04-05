@@ -1,0 +1,12 @@
+{
+  "@explicit": false,
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@id": "https://fairshake.cloud/",
+  "@type": "WebSite",
+  "name": {},
+  "description": {},
+  "keywords": {},
+  "image": {}
+}

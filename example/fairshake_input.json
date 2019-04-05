@@ -1,0 +1,8 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@id": "https://fairshake.cloud/",
+  "@type": "WebSite",
+  "url": "https://fairshake.cloud/"
+}
